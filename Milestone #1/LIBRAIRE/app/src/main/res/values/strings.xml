@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LIBRAIRE</string>
+    <string name="title">“Reading is a discount ticket to everywhere.”</string>
+    <string name="t1">-Mary Schmich</string>
+    <string name="bookname">Harry Potter And The Sorcerer\'s Stone</string>
+    <string name="author">by Antoine De Saint-Exupéry (Author)</string>
+    <string name="author1">by J.K. Rowling  (Author), Mary GrandPré (Illustrator)</string>
+    <string name="author2">by Veera Hiranandani(Author)</string>
+    <string name="bookname2">The Girl Who Drank The Moon</string>
+    <string name="author3">by Kelly Barnhill(Author)</string>
+    <string name="author4">by Paulo Coelho(Author)</string>
+    <string name="author5">by Jostein Gaarder(Author)</string>
+    <string name="author6">by Paulo Coelho(Author)</string>
+    <string name="bookname3">How to Win Friends and Influence People</string>
+    <string name="author7">by Dale Carnegie(Author)</string>
+    <string name="bookname4">Eat, Pray, Love: One Woman\'s Search for Everything </string>
+    <string name="author8">by Elizabeth Gilbert(Author)</string>
+    <string name="author9">by Khaled Hosseini(Author)</string>
+    <string name="bookname5">In Our Prime: The Invention of Middle Age</string>
+    <string name="author10">by Patricia Cohen(Author)</string>
+    <string name="bookname6">A Window Opens: A Novel </string>
+    <string name="author11">by Elisabeth Egan  (Author)</string>
+    <string name="bookname7">Advantage India: From Challenge to Opportunity</string>
+    <string name="author12">by A.P.J.Abdul Kalam(Author),Srijan Pal Singh(Author)</string>
+    <string name="bookname8">Quiet Power:The Secret Strengths of Introverts</string>
+    <string name="author13">by Susan Cain(Author),Gregory Mone(Author),Erica Moroz(Author),Grant Snider(Illustrator)</string>
+    <string name="bookname9">The Nightingale: A Novel</string>
+    <string name="author14">by Kristin Hannah(Author)</string>
+    <string name="author15">by Kathryn Stockett(Author)</string>
+</resources>
